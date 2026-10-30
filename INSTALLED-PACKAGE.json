@@ -1,0 +1,14 @@
+{
+  "package": "@local/max-tokens-continue",
+  "version": "1.1.0-english.20261023",
+  "capturedOn": "2026-10-30",
+  "upstream": null,
+  "files": {
+    "README.md": "012ffcd9b585b2bfd1a08798ec3e29a7fd012df17ee843acd3086570d35d7960",
+    "cordis.patch.yml": "ef640d3549007e8edcf570dce640bddd41e6df598a7e52ebb736fd2092a52d30",
+    "icon.svg": "2bbd9a1dc1aad5f6f2985b99ba7a959c02747915fa0f5b88ff14f867dd67691a",
+    "lib/index.js": "b08d7e5af445b4379c67f4278fb9251e40df68abea8e40855849e7d60e55013a",
+    "package.json": "1a9fea5619281cefa5dc890f4be84423339fec719b62dab1161831c11bf64973"
+  },
+  "readmeNote": "README.md has an added mirror notice; the hash records the original installed README."
+}
