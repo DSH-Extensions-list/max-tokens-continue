@@ -1,5 +1,3 @@
-> Installed package mirror: **@local/max-tokens-continue@1.1.0-english.20261023**. See [distribution details](DISTRIBUTION.md) for upstream attribution, the captured archive, and source limitations.
-
 ---
 description: "Auto-continues a turn cut off by the provider output-token cap, so a truncated response resumes in the same turn instead of ending mid-sentence."
 kind: "package-bundle"
